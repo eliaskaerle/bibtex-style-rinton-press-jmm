@@ -10,24 +10,24 @@ To be independent from fixed bibliography styles and to use a .bib file, this re
 
 ## Usage
 ### Usage "as is"
-To use the bibliography style "as is" copy the .bst file into your latex folder and import it by adding the two lines to you (main) .tex file:
->  \bibliographystyle{rinton-press-jmm}
+To use the bibliography style "as is" copy the .bst file into your latex folder and import it by adding the two lines to your (main) .tex file:
+>  \bibliographystyle{rinton-press-jmm}  
 >  \bibliography{yourbibfile}
 
 ### Change styles and rebuild
-To change the bibliography styles first edit the .dbj file as described in [3] then call
+To change the bibliography styles, first edit the .dbj file as described in [3] then call
 > latex rinton-press-jmm.dbj
 
-to create a new .bst file.
+on your command line to create a new .bst file.
 
 ## Where does the dbj file come from?
-The dbj file is the output of the *latex makebst* program (see [4])
+The dbj file is the output of *latex makebst* (see [4]).
 
 ## Questions? Comments? Improvements?
-I would be happy to further improve that bibliography style (see [Issues](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/issues). Please use Github's *Issue* and *Pull Request* functions for comments and improvements on that file.
+I would be happy to further improve that bibliography style (see [Issues](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/issues)). Please use Github's *Issue* and *Pull Request* functions for comments and improvements on that file.
 
 ## Ref:
-[1] https://www.sharelatex.com/learn/Bibtex_bibliography_styles
-[2] http://www.rintonpress.com/style/index.html
-[3]http://www.ctex.org/documents/packages/bibref/makebst.pdf
+[1] https://www.sharelatex.com/learn/Bibtex_bibliography_styles  
+[2] http://www.rintonpress.com/style/index.html  
+[3] http://www.ctex.org/documents/packages/bibref/makebst.pdf  
 [4] http://tex.stackexchange.com/questions/96174/is-there-an-easy-way-to-create-or-personalize-bst-files
