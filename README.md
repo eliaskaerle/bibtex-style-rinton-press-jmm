@@ -21,12 +21,12 @@ To change the bibliography styles, first edit the .dbj file as described in [3] 
 on your command line to create a new .bst file.
 
 ## Where does the dbj file come from?
-The dbj file is the output of *latex makebst* (see [4]).
+The .dbj file is the output of *latex makebst* (see [4]).
 
 ## Questions? Comments? Improvements?
 I would be happy to further improve that bibliography style (see [Issues](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/issues)). Please use Github's *Issue* and *Pull Request* functions for comments and improvements on that file.
 
-## Ref:
+## References
 [1] https://www.sharelatex.com/learn/Bibtex_bibliography_styles  
 [2] http://www.rintonpress.com/style/index.html  
 [3] http://www.ctex.org/documents/packages/bibref/makebst.pdf  
