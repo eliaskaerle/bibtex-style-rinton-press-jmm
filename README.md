@@ -6,7 +6,7 @@ Rinton Press requires a bibliography style for it's "Journal of Mobile Multimedi
 
 ![Bibliography Example](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/blob/master/bib-example.jpg)
 
-![Bibliography Example](https://raw.githubusercontent.com/eliaskaerle/bibtex-style-rinton-press-jmm/blob/master/bib-example.jpg)
+![Bibliography Example](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/blob/master/cite-example.jpg)
 
 To be independent from fixed bibliography styles and to use a .bib file, this repository provides the necessary .bst file to style the bibliography according to the Rinton Press JMM requirements and the .dbj file to change stylings and rebuilt the .bst file.
 
