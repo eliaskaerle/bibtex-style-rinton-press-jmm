@@ -2,6 +2,7 @@
 
 Rinton Press requires a bibliography style for it's "Journal of Mobile Multimedia" which is not compatible with any of the latex bibliography styles mentioned in [1]. In the JMM latex template available on the website [2], there is no .bst file and the bibliography is created by *begin{thebibliography}...* and then filled with *bibitem*.
 
+**Excerpt from the documentation:**
 > References are to be listed in the order cited in the text. For each cited work, include all the authors' names, year of the work, title, place where the work appears. Use the style shown in the following examples. For journal names, use the standard abbreviations. Typeset references in 9pt Times Roman.
 
 ![Bibliography Example](https://github.com/eliaskaerle/bibtex-style-rinton-press-jmm/blob/master/bib-example.jpg)
